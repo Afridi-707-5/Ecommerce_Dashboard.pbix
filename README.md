@@ -1,6 +1,7 @@
 Dashboard Summary:
 
 Key Performance Indicators (KPIs):
+
 Total Revenue: Total sales revenue generated
 Total Customers: Total number of unique customers
 Number of Products: Total count of products available
